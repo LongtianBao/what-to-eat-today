@@ -1,0 +1,4 @@
+interface:
+  display_name: "今天吃啥 · What to Eat Today"
+  short_description: "Personal meals for your tastes, schedule, and dietary needs"
+  default_prompt: "Use $what-to-eat-today to plan today's meals around my preferences and cooking setup. / 用 $what-to-eat-today 规划今天吃啥。"

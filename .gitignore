@@ -1,0 +1,11 @@
+# Private runtime data never belongs in this repository.
+.DS_Store
+__pycache__/
+.env
+.env.*
+profile.json
+health-records.json
+profiles/
+plans/
+*.pdf
+*.ics
